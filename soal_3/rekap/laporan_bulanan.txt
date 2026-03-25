@@ -1,12 +1,12 @@
 ============================================================
                  LAPORAN KEUANGAN KOST SLEBEW
 ============================================================
- Total pemasukan (Aktif)       : Rp4.000.000
- Total tunggakan               : Rp0
- Jumlah kamar terisi           : 2
+ Total pemasukan (Aktif)       : Rp6.000.000
+ Total tunggakan               : Rp2.000.000
+ Jumlah kamar terisi           : 4
 ------------------------------------------------------------
  Daftar penghuni menunggak:
-   Tidak ada tunggakan.
+   - Nana (Kamar 4) Rp2000000
 ============================================================
- Dicetak pada: 2026-03-25 15:53:02
+ Dicetak pada: 2026-03-25 19:00:02
 ============================================================
